@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adam-billett" alt="adam-billett" /></a> </p>
 
-- 🔭 I’m currently working on [Website]([https://github.com/adam-billett/myPorfolio](https://github.com/adam-billett/testSite))
+- 🔭 I’m currently working on [Website](https://github.com/adam-billett/testSite)
 
 - 🌱 I’m currently learning **AI**
 
